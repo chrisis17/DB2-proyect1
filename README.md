@@ -43,4 +43,4 @@ Se localiza el buffer respectivo y se elimina dicho registro, cuando éste quede
 
 
 #### Link del video
-(https://drive.google.com/drive/folders/16gji_raze0ata8hDurzSRBhcXIJhot2A)
+https://drive.google.com/drive/folders/1cz_SeYPI3E9DNH3ezRC6ye6Ka3gQ_jEF?usp=sharing
