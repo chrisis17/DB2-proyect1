@@ -37,12 +37,10 @@ Primero se localiza el bucket respectivo, si no encontró el bucket, procede a b
 Se localiza el buffer respectivo y se elimina dicho registro, cuando éste quede vacío, este puede ser liberado.
 
 
-## Resultados Esperimentales
-
 ## Pruebas de Uso
+#### Interfaz gráfica
+<img src="DB2-proyect1/interfaz.jpeg" alt="interfaz"/>
 
 
-
-
-Resultado 1  
-//<img src="microproyecto1/images/demo1.png" alt="demo1_inicial"/>
+#### Link del video
+(https://drive.google.com/drive/folders/16gji_raze0ata8hDurzSRBhcXIJhot2A)
