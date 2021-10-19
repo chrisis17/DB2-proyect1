@@ -1,0 +1,3 @@
+C:/Users/miana/CLionProjects/ProyectoBD2/cmake-build-debug/CMakeFiles/ProyectoBD2.dir
+C:/Users/miana/CLionProjects/ProyectoBD2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/miana/CLionProjects/ProyectoBD2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

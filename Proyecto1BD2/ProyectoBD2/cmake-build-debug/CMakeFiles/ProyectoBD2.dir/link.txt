@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ProyectoBD2.dir/objects.a
+C:\mingw32\bin\ar.exe cr CMakeFiles\ProyectoBD2.dir/objects.a @CMakeFiles\ProyectoBD2.dir\objects1.rsp
+C:\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ProyectoBD2.dir/objects.a -Wl,--no-whole-archive -o ProyectoBD2.exe -Wl,--out-implib,libProyectoBD2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ProyectoBD2.dir\linklibs.rsp
