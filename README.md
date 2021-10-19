@@ -39,7 +39,7 @@ Se localiza el buffer respectivo y se elimina dicho registro, cuando éste quede
 
 ## Pruebas de Uso
 #### Interfaz gráfica
-<img src="DB2-proyect1/interfaz.jpeg" alt="interfaz"/>
+<img src="interfaz.jpeg" alt="interfaz"/>
 
 
 #### Link del video
